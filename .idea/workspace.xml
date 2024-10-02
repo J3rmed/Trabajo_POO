@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/J3rmed/Trabajo2-master.git",
+    "accountId": "e0862c6f-6731-4738-9300-39509cf5eed6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -35,6 +41,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/jeffe/OneDrive/Documents/Universidad/SEMESTRE 2024-2/Tec Prog Y Lab/Trabajo2-master",
     "node.js.detected.package.eslint": "true",
@@ -90,6 +97,7 @@
       <workItem from="1727312066609" duration="5045000" />
       <workItem from="1727739604414" duration="6089000" />
       <workItem from="1727793432664" duration="376000" />
+      <workItem from="1727886497257" duration="304000" />
     </task>
     <servers />
   </component>
